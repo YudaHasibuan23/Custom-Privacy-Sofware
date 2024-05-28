@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <h1 align="center">
   <br>
-  <a href="http:/whoamiproject.tech"><img src="https://user-images.githubusercontent.com/59175356/160829133-b140e801-8e1e-4255-9277-7ab05ae3640d.png" alt="Whoami" width="200"></a>
+  <a href="http:/whoamiproject.tech"><img src="https://user-images.githubusercontent.com/59175356/160829133-b140e801-8e1e-4255-9277-7ab05ae3640d.pg" alt="Whoami" width="200"></a>
 </h1>
 
 <h4 align="center"> <a href="http:/whoamiproject.tech" target="_blank">Whoami</a> provides enhanced privacy, anonymity for Debian and Arch based linux distributions</h4>
