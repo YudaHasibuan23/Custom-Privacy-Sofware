@@ -75,3 +75,27 @@ Jika Anda tidak memperbarui sistem Anda secara teratur atau belum menginstal pak
 
   ```sh
   sudo apt update && sudo apt install tar tor curl python3 python3-scapy network-manager
+
+  ### Installation
+
+1. Clone the repo
+ 
+   ```sh
+   git clone https://github.com/omer-dogan/kali-whoami
+
+2. Install makefile
+ 
+   ```sh
+   sudo make install
+
+Parameter | Description
+-------|-------------------
+--start | It will make backups and start the program.
+--stop | Closes the program using a backup.
+--status | Provides information about working status.
+--fix | Used to repair the system in case of a possible bug.
+--help | This shows the menu.
+
+dan untuk melihat lebih detail untuk fungsional nya tekan perintah di bawah
+  ```sh
+"sudo kali-whoami --help" 
