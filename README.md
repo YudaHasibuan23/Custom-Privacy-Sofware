@@ -4,7 +4,7 @@
   <a href="http:/whoamiproject.tech"><img src="https://user-images.githubusercontent.com/59175356/160829133-b140e801-8e1e-4255-9277-7ab05ae3640d.pg" alt="Whoami" width="200"></a>
 </h1>
 
-<h4 align="center"> <a href="http:/whoamiproject.tech" target="_blank">Whoami</a> provides enhanced privacy, anonymity for Debian and Arch based linux distributions</h4>
+<h4 align="center"> <a href="http:/whoamiproject.tech" target="_blank">Whoami</a> Dalam definisi paling sederhana dan terpendek, Whoami adalah alat privasi/anonimitas yang ramah pengguna dengan kemudahan penggunaan dan antarmuka sederhana. Whoami menggunakan 9+ modul berbeda untuk memastikan tingkat anonimitas setinggi mungkin juga memecahkan kemungkinan masalah tanpa mengganggu Anda dengan modul Pemecah Bug, yang sedang dalam pengembangan. Anda dapat menemukan deskripsi modul di bawah dan informasi lebih rinci di situs web.</h4>
 
 <p align="center">
  <a href="https://github.com/omer-dogan/kali-whoami/issues/new?assignees=omer-dogan&labels=enhancement&template=feature_request.md&title=Feature+Request">Feature request</a> -
