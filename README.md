@@ -5,7 +5,6 @@
 </h1>
 
 <h4 align="center"> <a href="http:/whoamiproject.tech" target="_blank">Whoami</a> <h2 align="center"> 
-<h2 Tentang Proyek </h2> Dalam definisi paling sederhana dan terpendek, Whoami adalah alat privasi/anonimitas yang ramah pengguna dengan kemudahan penggunaan dan antarmuka sederhana. Whoami menggunakan lebih dari 9 modul berbeda untuk memastikan tingkat anonimitas setinggi mungkin juga memecahkan kemungkinan masalah tanpa mengganggu Anda dengan modul Pemecah Bug, yang sedang dalam pengembangan. Anda dapat menemukan deskripsi modul di bawah dan informasi lebih rinci di situs web.</h4>
 
 <!-- TENTANG PROYEK -->
 <h2 align="center">Tentang Proyek</h2>
