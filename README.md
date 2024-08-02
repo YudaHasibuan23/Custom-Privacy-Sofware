@@ -14,7 +14,7 @@ Dalam definisi paling sederhana dan terpendek, Whoami adalah alat privasi/anonim
 <!-- MODUL -->
 <h2 align="center">Modul</h2>
 
-<h4 align="center">Lihat bagian dokumentasi di situs web untuk informasi terperinci tentang <a href="http:/whoamiproject.tech" target="_blank">modul</a></h4>
+<h4 align="center">Lihat bagian dokumentasi di situs web untuk informasi terperinci tentang modul</h4>
 <table align="center">
     <thead>
     <tr>
