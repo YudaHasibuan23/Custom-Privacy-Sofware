@@ -76,7 +76,6 @@ Jika Anda tidak memperbarui sistem Anda secara teratur atau belum menginstal pak
   ```sh
   sudo apt update && sudo apt install tar tor curl python3 python3-scapy network-manager
 
-  ### Installation
 
 1. Clone the repo
  
